@@ -76,11 +76,11 @@ h4 {
     font-size: 30px;
 }
 
-.form {
-    position: relative;
-    text-align: center;
-    border-style: 5px solid rgb(144, 144, 255);
-    border-width: 5px;
-    display: inline-block;
-}
 
+form {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    border: solid rgb(144, 144, 255);
+    border-right: 5px;
+}
