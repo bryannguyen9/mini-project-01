@@ -1,5 +1,5 @@
 * {
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 header {
@@ -80,4 +80,6 @@ form {
     text-align: center;
     color: white;
     font-size: 20px;
+    border: solid rgb(144, 144, 255);
+    border-right: 5px;
 }
